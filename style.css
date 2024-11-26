@@ -19,3 +19,6 @@ body{
     justify-content: center;
     background: var(--white-color);
 }
+.container{
+    color: red;
+}
